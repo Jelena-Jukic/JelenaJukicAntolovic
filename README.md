@@ -1,3 +1,4 @@
 # Hello word!
 
-I'm here to learn forntend!
+:grinning: I'm here to learn forntend!  	:sunglasses:  :astronaut:
+
